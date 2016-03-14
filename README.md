@@ -14,6 +14,9 @@ Application which renders the letters `JS BS` to the screen.
 
 [Check out this example on codepen.](http://codepen.io/js-bs/pen/dMpVoq)
  
+ ![screen shot 2016-03-13 at 6 57 24 pm](https://cloud.githubusercontent.com/assets/17751061/13733252/a658d4ae-e94d-11e5-8c35-4d26902676ca.png)
+
+
 ```
 class Application extends React.Component {
   render() {
